@@ -4,6 +4,7 @@
 
 ![image](https://github.com/user-attachments/assets/9b613c7a-aa35-4981-899e-3536dc18934c)
 
+### RANDOM IDEAS APP - FOLLOW ALONG TUTORIAL FROM TRAVERSY MEDIA JAVASCRIPT COURSE
 
 ## Tech used: [![My Skills](https://skillicons.dev/icons?i=js,html,css,webpack,npm,nodejs,mongodb,postman)](https://skillicons.dev)
 
